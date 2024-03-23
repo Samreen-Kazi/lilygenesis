@@ -2,6 +2,10 @@
 
 This is a Flask web application that allows users to search for books and retrieve their details, including the name of the author, file type, download link, and book name, from Library Genesis using the libgen-api.
 
+![Application Screenshot](ss.png)
+![Application Screenshot](ss1.png)
+![Application Screenshot](ss2.png)
+
 ## Introduction
 
 Library Genesis is a website that provides free access to millions of research articles and books. This web application provides a convenient way for users to search for books and obtain detailed information about them.
