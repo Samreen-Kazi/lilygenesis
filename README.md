@@ -1,4 +1,4 @@
-# lilygenesis Web App
+# Lilygenesis Web App
 
 This is a Flask web application that allows users to search for books and retrieve their details, including the name of the author, file type, download link, and book name, from Library Genesis using the libgen-api.
 
@@ -21,7 +21,13 @@ Library Genesis is a website that provides free access to millions of research a
 
 ## Installation
 
-1. Install the required dependencies:
+1. Clone this repository to your local machine:
+
+    ```
+    git clone https://github.com/Samreen-Kazi/lilygenesis.git
+    ```
+
+2. Install the required dependencies:
 
     ```
     pip install -r requirements.txt
@@ -32,7 +38,7 @@ Library Genesis is a website that provides free access to millions of research a
 1. Navigate to the directory where you cloned the repository:
 
     ```
-    cd library-genesis-book-url-fetcher-webapp
+    cd lilygenesis
     ```
 
 2. Run the Flask application:
@@ -44,7 +50,6 @@ Library Genesis is a website that provides free access to millions of research a
 3. Open your web browser and go to `http://localhost:5000`.
 4. Enter the book title, author, in the search bar and click on the "Search" button.
 5. The search results will be displayed in a table format, showing the author name, file type, download link, and book name.
-
 
 ## Acknowledgments
 
