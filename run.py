@@ -1,3 +1,1 @@
-from myapp import create_app
-
-app = create_app
+web: gunicorn app:app 
